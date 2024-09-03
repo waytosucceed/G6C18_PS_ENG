@@ -1,0 +1,216 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Prefixes (part 2)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the word that means \"not reversible\":",
+          "options": [
+            "Unreversible",
+            "Disreversible",
+            "Irreversible",
+            "Inreversible"
+          ],
+          "answer": 2,
+          "explanation": "\"Ir-\" is used before words starting with 'r' and means \"not,\" so \"irreversible\" means not able to be reversed."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: To \"___lodge\" means to remove or force out from a position. (Im / Dis)",
+          "options": ["Im", "Dis"],
+          "answer": 1,
+          "explanation": "\"Dis-\" means \"away\" or \"apart,\" so \"dislodge\" means to force out of a place."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word means \"to reveal information\"?",
+          "options": ["Enclose", "Disclose", "Inclose", "Subclose"],
+          "answer": 1,
+          "explanation": "While \"dis-\" often means \"not\" or \"reverse,\" in this case, it means \"away\" or \"apart.\" \"Disclose\" means to reveal or make known."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank: \"___audible\" describes a sound that cannot be heard. (im / in)",
+          "options": ["Im", "In"],
+          "answer": 1,
+          "explanation": "\"In-\" means \"not,\" so \"inaudible\" means not able to be heard."
+        },
+        {
+          "questionNo": 5,
+          "question": "Select the word that means \"not capable of being corrupted\":",
+          "options": [
+            "Uncorruptible",
+            "Discorruptible",
+            "Incorruptible",
+            "Imcorruptible"
+          ],
+          "answer": 2,
+          "explanation": "\"In-\" means \"not,\" so \"incorruptible\" means not able to be corrupted."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank: An \"___partial\" judge shows no favouritism. (in / im)",
+          "options": ["In", "Im"],
+          "answer": 1,
+          "explanation": "\"Im-\" means \"not,\" so \"impartial\" means not partial or biased."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank: To \"___arm\" means to take away weapons. (sub / dis)",
+          "options": ["Sub", "Dis"],
+          "answer": 1,
+          "explanation": "\"Dis-\" means \"remove,\" so \"disarm\" means to remove arms or weapons."
+        },
+        {
+          "questionNo": 8,
+          "question": "Select the word that means \"not capable of being measured\":",
+          "options": [
+            "Inmeasurable",
+            "Dismeasurable",
+            "Immeasurable",
+            "Ameasurable"
+          ],
+          "answer": 2,
+          "explanation": "\"Im-\" means \"not,\" and it's used before words starting with 'm'. \"Immeasurable\" means not able to be measured."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank: An \"___mature\" fruit is not yet ripe. (in / im)",
+          "options": ["In", "Im"],
+          "answer": 1,
+          "explanation": "\"Im-\" means \"not,\" so \"immature\" means not fully developed or ripe."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: \"___marine\" life exists below the surface of the sea. (sub / dis)",
+          "options": ["Sub", "Dis"],
+          "answer": 0,
+          "explanation": "\"Sub-\" means \"under,\" so \"submarine\" means under the sea."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank: \"___rational\" behaviour is not based on reason or logic. (In / Ir)",
+          "options": ["In", "Ir"],
+          "answer": 1,
+          "explanation": "\"Ir-\" means \"not,\" so \"irrational\" means not rational or logical."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word means \"not following the usual rules\"?",
+          "options": ["Unregular", "Disregular", "Irregular", "Subregular"],
+          "answer": 2,
+          "explanation": "\"Ir-\" is used before words starting with 'r' and means \"not,\" so \"irregular\" means not regular or not following usual rules."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word means \"to prove false or wrong\"? (Disprove / Improve)",
+          "options": ["Disprove", "Improve"],
+          "answer": 0,
+          "explanation": "\"Dis-\" means \"not\" or \"opposite of,\" so \"disprove\" means to prove something is not true."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank: To \"___qualify\" means to make ineligible. (dis / sub)",
+          "options": ["Dis", "Sub"],
+          "answer": 0,
+          "explanation": "\"Dis-\" means \"not\" or \"opposite of,\" so \"disqualify\" means to make not qualified."
+        },
+        {
+          "questionNo": 15,
+          "question": "Select the word that means \"less effective\":",
+          "options": [
+            "Ineffective",
+            "Diseffective",
+            "Subeffective",
+            "None of the above"
+          ],
+          "answer": 0,
+          "explanation": "This means \"not effective\" or \"not producing the desired effect.\" It doesn't mean \"less effective,\" but rather \"not effective at all.\""
+        },
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank: An \"___possible\" task cannot be done. (in / im)",
+          "options": ["In", "Im"],
+          "answer": 1,
+          "explanation": "\"Im-\" means \"not,\" so \"impossible\" means not possible or unable to be done."
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank: A \"___tropical\" climate is nearly tropical but cooler. (im / sub)",
+          "options": ["Im", "Sub"],
+          "answer": 1,
+          "explanation": "\"Sub-\" means \"under\" or \"nearly,\" so \"subtropical\" means nearly tropical."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: To \"___assemble\" means to take apart. (dis / ir)",
+          "options": ["Dis", "Ir"],
+          "answer": 0,
+          "explanation": "\"Dis-\" means \"apart,\" so \"disassemble\" means to take apart or separate into pieces."
+        },
+        {
+          "questionNo": 19,
+          "question": "Select the word that means \"not capable of being disputed\":",
+          "options": [
+            "Undisputable",
+            "Indisputable",
+            "Imdisputable",
+            "Disdisputable"
+          ],
+          "answer": 1,
+          "explanation": "\"In-\" means \"not,\" so \"indisputable\" means not able to be disputed."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank: \"___mobile\" objects cannot move or be moved easily. (in / im)",
+          "options": ["In", "Im"],
+          "answer": 1,
+          "explanation": "\"Im-\" means \"not,\" so \"immobile\" means not mobile or unable to move."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which word means \"to remove from power or authority\"?",
+          "options": ["Enthrone", "Dethrone", "Rethrone", "Unthrone"],
+          "answer": 1,
+          "explanation": "\"Dis-\" (which becomes \"de-\" in this case) means \"remove\" or \"reverse,\" so \"dethrone\" means to remove from power."
+        },
+
+        {
+          "questionNo": 22,
+          "question": "Fill in the blank: To \"___agree\" means to have a different opinion.",
+          "options": ["ir", "dis"],
+          "answer": 1,
+          "explanation": "\"Dis-\" means \"not\" or \"opposite of,\" so \"disagree\" means to not agree."
+        },
+        {
+          "questionNo": 23,
+          "question": "Choose the word that means \"to break into parts\":",
+          "options": [
+            "Integrate",
+            "Disintegrate",
+            "Subintegrate",
+            "Irintegrate"
+          ],
+          "answer": 1,
+          "explanation": "\"Dis-\" means \"apart\" or \"away,\" so \"disintegrate\" means to break apart into pieces."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank: \"___personal\" communication lacks warmth or emotion.",
+          "options": ["in", "im"],
+          "answer": 1,
+          "explanation": "\"Im-\" means \"not,\" so \"impersonal\" means not personal or lacking individual connection."
+        },
+        {
+          "questionNo": 25,
+          "question": "Fill in the blank: To \"___connect\" means to separate.",
+          "options": ["in", "dis"],
+          "answer": 1,
+          "explanation": "\"Dis-\" means \"apart\" or \"away,\" so \"disconnect\" means to separate or detach."
+        }
+      ]
+    }
+  ]
+}
